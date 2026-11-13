@@ -1,0 +1,5 @@
+1. file_8390.txt	323
+2. file_11655.txt	321
+3. file_7236.txt	319
+4. file_5342.txt	319
+5. file_8985.txt	317
